@@ -1,4 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+CLICK HERE TO WATCH THE VIDEO DEMO:
+https://drive.google.com/drive/folders/153Vfd-t9YbXx8COk6edDXU5wDdMzcaXD?usp=sharing
 
 ##  Job Board Project
 Kemerson D. Fernandez
@@ -23,5 +25,3 @@ Open your terminal inside the project folder and run these commands to install e
 ```bash
 composer install
 npm install
-
- **[Click here to watch the video demo](https://drive.google.com/drive/folders/153Vfd-t9YbXx8COk6edDXU5wDdMzcaXD?usp=sharing)**

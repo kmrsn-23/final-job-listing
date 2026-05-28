@@ -9,14 +9,5 @@ class ListJobs extends Model
 {
     use HasFactory;
 
-    protected $table = 'job_listing'; 
-
-    protected $fillable = [
-        'id',
-        'title',
-        'description',
-        'company',
-        'location',
-        'salary',
-    ];
+    protected $fillable = ['title', 'company', 'location', 'salary', 'contact_email'];
 }
